@@ -28,3 +28,15 @@
 
 ### Medical AI
 * [Hyun-seok Min](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data?from_m_app=android)
+
+### PR12
+* [1~28](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
+* [PR29 : Apprenticeship Learning via Inverse Reinforcement Learning](https://www.youtube.com/watch?v=AXi4s3aFN6M&feature=youtu.be)
+* [PR30 : Photo-Realistic Single Image Super Resolution Using a Generative Adversarial Network](https://www.youtube.com/watch?v=nGPMKnoJTcI&t=9s)
+* [PR31 : Learning to learn by gradient descent by gradient descent](https://www.youtube.com/watch?v=p55H46RiZ6k&feature=youtu.be)
+* [PR32 : Deep Visual-Semantic Alignments for Generating Image Descriptions](https://www.youtube.com/watch?v=Q-Cm7nw85iE&feature=youtu.be)
+* [PR33 : PVANet: Lightweight Deep Neural Networks for Real-time Object Detection](https://www.youtube.com/watch?v=TYDGTnxUGHQ&feature=youtu.be)
+* [PR34 : Inception and Xception](https://www.youtube.com/watch?v=V0dLhyg5_Dw&feature=youtu.be)
+* [PR35 : Understanding Black-box Predictions via Influence Functions](https://www.youtube.com/watch?v=xlmlY8WHjkU)
+* [PR36 : Learning to Remember Rare Events](https://www.youtube.com/watch?v=S_fbBYbXypc&feature=youtu.be)
+* [PR37 : Ask me anything: Dynamic memory networks for natural language processing](https://www.youtube.com/watch?v=oxSrjuspQEs&feature=youtu.be)
