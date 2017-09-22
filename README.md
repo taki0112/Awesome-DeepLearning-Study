@@ -3,6 +3,10 @@
 ### DeepLearning Lecture
 * [DLSS, RLSS](http://videolectures.net/deeplearning2017_montreal/)
 * [fast.ai](http://course.fast.ai/?utm_campaign=Revue+newsletter&utm_medium=Newsletter&utm_source=revue)
+* [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+* [Terry-deeplearning-takl](https://www.youtube.com/watch?v=D4zqigCb8co&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
+* [cs231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+* [cs231n-korean](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
 
 ### MachineLearning Lecture
 * [KAIST](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
@@ -22,6 +26,7 @@
 ### NLP
 * [RNN](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
 * [Word2Vec](http://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/)
+* [stanford-NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 
 ### Theory
 * [Chris](https://brunch.co.kr/@chris-song#articles)
