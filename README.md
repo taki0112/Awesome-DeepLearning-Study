@@ -1,5 +1,12 @@
 # DeepLearning-Summary
 
+### TechBlog
+* [GAN-wiseodd](https://wiseodd.github.io/techblog/)
+* [Lunit](https://blog.lunit.io/)
+* [Pattern_Recognition](http://norman3.github.io/prml/)
+* [Carpedm20](http://carpedm20.github.io/)
+* [Sunk-Kim-Summary](http://pythonkim.tistory.com/notice/25)
+
 ### DeepLearning Lecture
 * [DLSS, RLSS](http://videolectures.net/deeplearning2017_montreal/)
 * [fast.ai](http://course.fast.ai/?utm_campaign=Revue+newsletter&utm_medium=Newsletter&utm_source=revue)
@@ -8,6 +15,7 @@
 * [cs231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [cs231n-korean](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
 * [NaverD2](https://www.youtube.com/watch?v=soZXAH3leeQ&list=PLsFtzQAC8dDetav3jSCKB_MXwvUn7yfJS)
+* [Enjoy-DL](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895/)
 
 ### MachineLearning Lecture
 * [KAIST](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
@@ -24,18 +32,21 @@
 ### GAN, VAE
 * [Hwalsuk Lee](https://mega.nz/#!tBo3zAKR!yE6tZ0g-GyUyizDf7uglDk2_ahP-zj5trVZSLW3GAjw)
 * [Jaejun Yoo](http://jaejunyoo.blogspot.com/search/label/GAN)
+* [illinois](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)
 
 ### NLP
 * [RNN](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
 * [Word2Vec](http://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/)
 * [stanford-NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [NaverD2](https://www.youtube.com/watch?v=r0veZ_WV0sA&list=PLsFtzQAC8dDdIqSY3o5XF_IBIgSLcyzTd)
+* [Note](https://github.com/nyu-dl/NLP_DL_Lecture_Note)
 
 ### Theory
 * [Chris](https://brunch.co.kr/@chris-song#articles)
 
-### Medical AI
+### etc
 * [Hyun-seok Min](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data?from_m_app=android)
+* [K-MOOC](http://www.kmooc.kr/)
 
 ### PR12
 * [1~28](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
