@@ -7,6 +7,7 @@
 * [Terry-deeplearning-talk](https://www.youtube.com/watch?v=D4zqigCb8co&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 * [cs231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [cs231n-korean](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
+* [NaverD2](https://www.youtube.com/watch?v=soZXAH3leeQ&list=PLsFtzQAC8dDetav3jSCKB_MXwvUn7yfJS)
 
 ### MachineLearning Lecture
 * [KAIST](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
@@ -27,6 +28,7 @@
 * [RNN](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
 * [Word2Vec](http://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/)
 * [stanford-NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* [NaverD2](https://www.youtube.com/watch?v=r0veZ_WV0sA&list=PLsFtzQAC8dDdIqSY3o5XF_IBIgSLcyzTd)
 
 ### Theory
 * [Chris](https://brunch.co.kr/@chris-song#articles)
