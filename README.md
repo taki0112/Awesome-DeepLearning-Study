@@ -29,6 +29,7 @@
 
 ### Tensorflow Tutorial
 * [TensorFlowKR-2017-talk-bestpractice](https://github.com/wookayin)
+* [Golbin](https://github.com/golbin/TensorFlow-Tutorials)
 
 ### GAN, VAE
 * [Hwalsuk Lee](https://mega.nz/#!tBo3zAKR!yE6tZ0g-GyUyizDf7uglDk2_ahP-zj5trVZSLW3GAjw)
