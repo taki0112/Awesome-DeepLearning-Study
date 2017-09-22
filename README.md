@@ -16,6 +16,7 @@
 ### DeepLearning Tutorial
 * [Yongho Ha](https://www.slideshare.net/yongho/ss-79607172)
 * [sjchoi_github](https://github.com/sjchoi86/dl_tutorials_10weeks)
+* [FastCampus](https://github.com/nmhkahn/deep_learning_tutorial)
 
 ### Tensorflow Tutorial
 * [TensorFlowKR-2017-talk-bestpractice](https://github.com/wookayin)
