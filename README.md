@@ -6,7 +6,7 @@
 * [Pattern_Recognition](http://norman3.github.io/prml/)
 * [Carpedm20](http://carpedm20.github.io/)
 * [Sung-Kim-Summary](http://pythonkim.tistory.com/notice/25)
-* [조대협](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+* [조대협_blog](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 
 ### DeepLearning Lecture
 * [DLSS, RLSS](http://videolectures.net/deeplearning2017_montreal/)
@@ -19,37 +19,37 @@
 * [Enjoy-DL](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895/)
 
 ### MachineLearning Lecture
-* [KAIST](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
-* [Summary](https://www.slideshare.net/SGoodKim/machine-learning-by-sogood)
+* [KAIST_lecture](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
+* [Summary_slide](https://www.slideshare.net/SGoodKim/machine-learning-bysogood-80076209
 
 ### DeepLearning Tutorial
-* [Yongho Ha](https://www.slideshare.net/yongho/ss-79607172)
-* [sjchoi_github](https://github.com/sjchoi86/dl_tutorials_10weeks)
-* [FastCampus](https://github.com/nmhkahn/deep_learning_tutorial)
+* [Yongho Ha_slide](https://www.slideshare.net/yongho/ss-79607172)
+* [sjchoi_tutorial](https://github.com/sjchoi86/dl_tutorials_10weeks)
+* [FastCampus_tutorial](https://github.com/nmhkahn/deep_learning_tutorial)
 
 ### Tensorflow Tutorial
-* [TensorFlowKR-2017-talk-bestpractice](https://github.com/wookayin)
-* [Golbin](https://github.com/golbin/TensorFlow-Tutorials)
+* [TensorFlowKR-2017-talk-bestpractice_slide](https://github.com/wookayin)
+* [Golbin_tutorial](https://github.com/golbin/TensorFlow-Tutorials)
 
 ### GAN, VAE
-* [Hwalsuk Lee](https://mega.nz/#!tBo3zAKR!yE6tZ0g-GyUyizDf7uglDk2_ahP-zj5trVZSLW3GAjw)
-* [Jaejun Yoo](http://jaejunyoo.blogspot.com/search/label/GAN)
-* [illinois](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)
+* [Hwalsuk Lee_slide](https://mega.nz/#!tBo3zAKR!yE6tZ0g-GyUyizDf7uglDk2_ahP-zj5trVZSLW3GAjw)
+* [Jaejun Yoo_blog](http://jaejunyoo.blogspot.com/search/label/GAN)
+* [illinois_slide](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)
 
 ### NLP
 * [RNN](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
 * [Word2Vec](http://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/)
 * [stanford-NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-* [NaverD2](https://www.youtube.com/watch?v=r0veZ_WV0sA&list=PLsFtzQAC8dDdIqSY3o5XF_IBIgSLcyzTd)
+* [NaverD2_lecture](https://www.youtube.com/watch?v=r0veZ_WV0sA&list=PLsFtzQAC8dDdIqSY3o5XF_IBIgSLcyzTd)
 * [NLP_DL_Lecture_Note](https://github.com/nyu-dl/NLP_DL_Lecture_Note)
 * [NeuralDialogPaper](https://github.com/snakeztc/NeuralDialogPapers)
 
 ### Theory
-* [Chris](https://brunch.co.kr/@chris-song#articles)
+* [Chris_blog](https://brunch.co.kr/@chris-song#articles)
 
 ### etc
-* [Hyun-seok Min](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data?from_m_app=android)
-* [K-MOOC](http://www.kmooc.kr/)
+* [Hyun-seok Min_slide](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data?from_m_app=android)
+* [K-MOOC_lecture](http://www.kmooc.kr/)
 
 ### PR12
 * [all-KyungmoKweon](https://kkweon.github.io/pr12-web-app-elm/)
