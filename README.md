@@ -41,7 +41,8 @@
 * [Word2Vec](http://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/)
 * [stanford-NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [NaverD2](https://www.youtube.com/watch?v=r0veZ_WV0sA&list=PLsFtzQAC8dDdIqSY3o5XF_IBIgSLcyzTd)
-* [Note](https://github.com/nyu-dl/NLP_DL_Lecture_Note)
+* [NLP_DL_Lecture_Note](https://github.com/nyu-dl/NLP_DL_Lecture_Note)
+* [NeuralDialogPaper](https://github.com/snakeztc/NeuralDialogPapers)
 
 ### Theory
 * [Chris](https://brunch.co.kr/@chris-song#articles)
