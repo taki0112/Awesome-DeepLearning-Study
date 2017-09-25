@@ -21,6 +21,7 @@
 ### MachineLearning Lecture
 * [KAIST_lecture](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
 * [Summary_slide](https://www.slideshare.net/SGoodKim/machine-learning-bysogood-80076209
+* [Awesome Machine Learning Projects](https://ml-showcase.com/)
 
 ### DeepLearning Tutorial
 * [Yongho Ha_slide](https://www.slideshare.net/yongho/ss-79607172)
