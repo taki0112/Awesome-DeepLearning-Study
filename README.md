@@ -1,5 +1,5 @@
 # DeepLearning-Summary
-***Continually updating...***
+*Continually updating...*
 
 ### TechBlog
 * [GAN-wiseodd](https://wiseodd.github.io/techblog/)
