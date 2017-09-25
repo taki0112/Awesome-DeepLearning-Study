@@ -1,4 +1,5 @@
 # DeepLearning-Summary
+***Continually updating...***
 
 ### TechBlog
 * [GAN-wiseodd](https://wiseodd.github.io/techblog/)
@@ -40,6 +41,7 @@
 ### NLP
 * [RNN](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
 * [Word2Vec](http://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/)
+* [Word2Vec_korean](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html)
 * [stanford-NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [NaverD2_lecture](https://www.youtube.com/watch?v=r0veZ_WV0sA&list=PLsFtzQAC8dDdIqSY3o5XF_IBIgSLcyzTd)
 * [NLP_DL_Lecture_Note](https://github.com/nyu-dl/NLP_DL_Lecture_Note)
