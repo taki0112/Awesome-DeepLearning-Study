@@ -1,7 +1,7 @@
 # DeepLearning-Summary
 *Continually updating...*
 
-### TechBlog
+## TechBlog
 #### english
 * [GAN-wiseodd](https://wiseodd.github.io/techblog/)
 * [Pattern_Recognition](http://norman3.github.io/prml/)
@@ -12,7 +12,7 @@
 * [조대협_blog](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 * [Chris_blog](https://brunch.co.kr/@chris-song#articles)
 
-### DeepLearning Lecture
+## DeepLearning Lecture
 #### english
 * [DLSS, RLSS](http://videolectures.net/deeplearning2017_montreal/)
 * [fast.ai](http://course.fast.ai/?utm_campaign=Revue+newsletter&utm_medium=Newsletter&utm_source=revue)
@@ -24,26 +24,26 @@
 * [NaverD2](https://www.youtube.com/watch?v=soZXAH3leeQ&list=PLsFtzQAC8dDetav3jSCKB_MXwvUn7yfJS)
 * [Enjoy-DL](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895/)
 
-### MachineLearning Lecture
+## MachineLearning Lecture
 #### english
 * [Awesome Machine Learning Projects](https://ml-showcase.com/)
 #### korean
 * [KAIST_lecture](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
 * [Summary_slide](https://www.slideshare.net/SGoodKim/machine-learning-bysogood-80076209)
 
-### DeepLearning Tutorial
+## DeepLearning Tutorial
 #### english
 * [sjchoi_tutorial](https://github.com/sjchoi86/dl_tutorials_10weeks)
 #### korean
 * [Yongho Ha_slide](https://www.slideshare.net/yongho/ss-79607172)
 * [FastCampus_tutorial](https://github.com/nmhkahn/deep_learning_tutorial)
 
-### Tensorflow Tutorial
+## Tensorflow Tutorial
 #### korean
 * [TensorFlowKR-2017-talk-bestpractice_slide](https://github.com/wookayin)
 * [Golbin_tutorial](https://github.com/golbin/TensorFlow-Tutorials)
 
-### GAN, VAE
+## GAN, VAE
 #### english
 * [illinois_slide](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)
 * [Delving-deep-into-GANs](https://github.com/GKalliatakis/Delving-deep-into-GANs)
@@ -53,7 +53,7 @@
 * [Hwalsuk Lee_slide](https://mega.nz/#!tBo3zAKR!yE6tZ0g-GyUyizDf7uglDk2_ahP-zj5trVZSLW3GAjw)
 * [Jaejun Yoo_blog](http://jaejunyoo.blogspot.com/search/label/GAN)
 
-### NLP
+## NLP
 #### english
 * [stanford-NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [NLP_DL_Lecture_Note](https://github.com/nyu-dl/NLP_DL_Lecture_Note)
@@ -65,7 +65,7 @@
 * [NaverD2_lecture](https://www.youtube.com/watch?v=r0veZ_WV0sA&list=PLsFtzQAC8dDdIqSY3o5XF_IBIgSLcyzTd)
 
 
-### etc
+## etc
 #### english
 * [visualize_neural_net](https://github.com/Cloud-CV/Fabrik)
 #### korean
@@ -73,7 +73,7 @@
 * [K-MOOC_lecture](http://www.kmooc.kr/)
 * [python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
 
-### PR12 (korean)
+## PR12 (korean)
 * [all-KyungmoKweon](https://kkweon.github.io/pr12-web-app-elm/)
 * [1~28](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 * [PR29 : Apprenticeship Learning via Inverse Reinforcement Learning](https://www.youtube.com/watch?v=AXi4s3aFN6M&feature=youtu.be)
