@@ -1,12 +1,15 @@
 # DeepLearning-Summary
 *Continually updating...*
 
-## TechBlog
-#### english
-* [GAN-wiseodd](https://wiseodd.github.io/techblog/)
+## Theory
+#### Korean
+* [Dimension-Reduction](* [Dimension-Reduction](https://lookaside.fbsbx.com/file/Dimensionality_Reduction.pdf?token=AWxf9Cz75VpVxq285sXtJIMvDi22-ZCbUqdo4ey_pQsAx9MTS548eUjnjWOuY-tpjDCSznHqHP1s2nuSOTJR7cmJ5Cn8Px1Bk2-5kSLZf_8osDwWYIOC7hh_QEXO9Xdf_nSySMVM-z3GuQGrsLNqWc6LVK0MWYtuRZbQWznNyqCj5imwNItFmlBa2S0GiWwdaX_rNOMEYrbTiAOoXymwOoC9))
 * [Pattern-Recognition](http://norman3.github.io/prml/)
-#### korean
-* [Dimension-Reduction](https://lookaside.fbsbx.com/file/Dimensionality_Reduction.pdf?token=AWxf9Cz75VpVxq285sXtJIMvDi22-ZCbUqdo4ey_pQsAx9MTS548eUjnjWOuY-tpjDCSznHqHP1s2nuSOTJR7cmJ5Cn8Px1Bk2-5kSLZf_8osDwWYIOC7hh_QEXO9Xdf_nSySMVM-z3GuQGrsLNqWc6LVK0MWYtuRZbQWznNyqCj5imwNItFmlBa2S0GiWwdaX_rNOMEYrbTiAOoXymwOoC9)
+
+## TechBlog
+#### English
+* [GAN-wiseodd](https://wiseodd.github.io/techblog/)
+#### Korean
 * [Carpedm20](http://carpedm20.github.io/)
 * [Lunit](https://blog.lunit.io/)
 * [LAON-PEOPLE](http://blog.naver.com/laonple/220469250655)
@@ -15,67 +18,67 @@
 * [Chris_blog](https://brunch.co.kr/@chris-song#articles)
 
 ## DeepLearning Lecture
-#### english
+#### English
 * [DLSS, RLSS](http://videolectures.net/deeplearning2017_montreal/)
 * [fast.ai](http://course.fast.ai/?utm_campaign=Revue+newsletter&utm_medium=Newsletter&utm_source=revue)
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 * [cs231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-#### korean
+#### Korean
 * [cs231n](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
 * [Terry-deeplearning-talk](https://www.youtube.com/watch?v=D4zqigCb8co&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 * [NaverD2](https://www.youtube.com/watch?v=soZXAH3leeQ&list=PLsFtzQAC8dDetav3jSCKB_MXwvUn7yfJS)
 * [Enjoy-DL](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895/)
 
 ## MachineLearning Lecture
-#### english
+#### English
 * [Awesome-Machine-Learning-Projects](https://ml-showcase.com/)
-#### korean
+#### Korean
 * [KAIST_lecture](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
 * [Summary_slide](https://www.slideshare.net/SGoodKim/machine-learning-bysogood-80076209)
 
 ## DeepLearning Tutorial
-#### english
+#### English
 * [sjchoi_tutorial](https://github.com/sjchoi86/dl_tutorials_10weeks)
-#### korean
+#### Korean
 * [Yongho Ha_slide](https://www.slideshare.net/yongho/ss-79607172)
 * [FastCampus_tutorial](https://github.com/nmhkahn/deep_learning_tutorial)
 
 ## Tensorflow Tutorial
-#### korean
+#### Korean
 * [TensorFlowKR-2017-talk-bestpractice_slide](https://github.com/wookayin)
 * [Golbin_tutorial](https://github.com/golbin/TensorFlow-Tutorials)
 
 ## GAN, VAE
-#### english
+#### English
 * [illinois_slide](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)
 * [Delving-deep-into-GANs](https://github.com/GKalliatakis/Delving-deep-into-GANs)
 * [tf-gan-comparison](https://github.com/khanrc/tf.gans-comparison)
 * [tf-gan-colletion](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
-#### korean
+#### Korean
 * [Hwalsuk Lee_slide](https://mega.nz/#!tBo3zAKR!yE6tZ0g-GyUyizDf7uglDk2_ahP-zj5trVZSLW3GAjw)
 * [Jaejun Yoo_blog](http://jaejunyoo.blogspot.com/search/label/GAN)
 
 ## NLP
-#### english
+#### English
 * [stanford-NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 * [NLP-DL-Lecture-Note](https://github.com/nyu-dl/NLP_DL_Lecture_Note)
 * [NeuralDialogPaper](https://github.com/snakeztc/NeuralDialogPapers)
 * [Word2Vec](http://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/)
-#### korean
+#### Korean
 * [Word2Vec](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html)
 * [RNN](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
 * [NaverD2_lecture](https://www.youtube.com/watch?v=r0veZ_WV0sA&list=PLsFtzQAC8dDdIqSY3o5XF_IBIgSLcyzTd)
 
 
 ## etc
-#### english
+#### English
 * [visualize-neural-net](https://github.com/Cloud-CV/Fabrik)
-#### korean
+#### Korean
 * [Hyun-seok Min_slide](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data?from_m_app=android)
 * [K-MOOC_lecture](http://www.kmooc.kr/)
 * [python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
 
-## PR12 (korean)
+## PR12 (Korean)
 * [all-KyungmoKweon](https://kkweon.github.io/pr12-web-app-elm/)
 * [1~28](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 * [PR29 : Apprenticeship Learning via Inverse Reinforcement Learning](https://www.youtube.com/watch?v=AXi4s3aFN6M&feature=youtu.be)
