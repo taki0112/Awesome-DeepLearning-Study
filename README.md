@@ -76,7 +76,7 @@
 #### English
 * [visualize-neural-net](https://github.com/Cloud-CV/Fabrik)
 #### Korean
-* [Hyun-seok Min_slide](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data?from_m_app=android)
+* [Medical-AI_slide](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data?from_m_app=android)
 
 ## PR12 (Korean)
 * [all-KyungmoKweon](https://kkweon.github.io/pr12-web-app-elm/)
