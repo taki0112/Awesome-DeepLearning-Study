@@ -26,7 +26,7 @@
 
 ## MachineLearning Lecture
 #### english
-* [Awesome Machine Learning Projects](https://ml-showcase.com/)
+* [Awesome-Machine-Learning-Projects](https://ml-showcase.com/)
 #### korean
 * [KAIST_lecture](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
 * [Summary_slide](https://www.slideshare.net/SGoodKim/machine-learning-bysogood-80076209)
@@ -56,7 +56,7 @@
 ## NLP
 #### english
 * [stanford-NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-* [NLP_DL_Lecture_Note](https://github.com/nyu-dl/NLP_DL_Lecture_Note)
+* [NLP-DL-Lecture-Note](https://github.com/nyu-dl/NLP_DL_Lecture_Note)
 * [NeuralDialogPaper](https://github.com/snakeztc/NeuralDialogPapers)
 * [Word2Vec](http://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/)
 #### korean
@@ -67,7 +67,7 @@
 
 ## etc
 #### english
-* [visualize_neural_net](https://github.com/Cloud-CV/Fabrik)
+* [visualize-neural-net](https://github.com/Cloud-CV/Fabrik)
 #### korean
 * [Hyun-seok Min_slide](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data?from_m_app=android)
 * [K-MOOC_lecture](http://www.kmooc.kr/)
