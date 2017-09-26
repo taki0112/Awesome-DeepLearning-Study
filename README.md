@@ -2,60 +2,60 @@
 *Continually updating...*
 
 ### TechBlog
-* [GAN-wiseodd](https://wiseodd.github.io/techblog/)
-* [Lunit](https://blog.lunit.io/)
-* [Pattern_Recognition](http://norman3.github.io/prml/)
-* [Carpedm20](http://carpedm20.github.io/)
-* [Sung-Kim-Summary](http://pythonkim.tistory.com/notice/25)
-* [조대협_blog](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
-* [Chris_blog](https://brunch.co.kr/@chris-song#articles)
+* [GAN-wiseodd_eng](https://wiseodd.github.io/techblog/)
+* [Lunit_eng+kor](https://blog.lunit.io/)
+* [Pattern_Recognition_eng](http://norman3.github.io/prml/)
+* [Carpedm20_eng+kor](http://carpedm20.github.io/)
+* [Sung-Kim-Summary_kor](http://pythonkim.tistory.com/notice/25)
+* [조대협_blog_kor](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+* [Chris_blog_kor](https://brunch.co.kr/@chris-song#articles)
 
 ### DeepLearning Lecture
-* [DLSS, RLSS](http://videolectures.net/deeplearning2017_montreal/)
-* [fast.ai](http://course.fast.ai/?utm_campaign=Revue+newsletter&utm_medium=Newsletter&utm_source=revue)
-* [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-* [Terry-deeplearning-talk](https://www.youtube.com/watch?v=D4zqigCb8co&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
-* [cs231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-* [cs231n-korean](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
-* [NaverD2](https://www.youtube.com/watch?v=soZXAH3leeQ&list=PLsFtzQAC8dDetav3jSCKB_MXwvUn7yfJS)
-* [Enjoy-DL](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895/)
+* [DLSS, RLSS_eng](http://videolectures.net/deeplearning2017_montreal/)
+* [fast.ai_eng](http://course.fast.ai/?utm_campaign=Revue+newsletter&utm_medium=Newsletter&utm_source=revue)
+* [Siraj Raval_eng](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+* [Terry-deeplearning-talk_kor](https://www.youtube.com/watch?v=D4zqigCb8co&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
+* [cs231n_eng](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+* [cs231n-kor](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
+* [NaverD2_kor](https://www.youtube.com/watch?v=soZXAH3leeQ&list=PLsFtzQAC8dDetav3jSCKB_MXwvUn7yfJS)
+* [Enjoy-DL_kor](https://www.facebook.com/notes/enjoydl/deep-leaning-video-links/1227281394020895/)
 
 ### MachineLearning Lecture
-* [KAIST_lecture](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
-* [Summary_slide](https://www.slideshare.net/SGoodKim/machine-learning-bysogood-80076209)
-* [Awesome Machine Learning Projects](https://ml-showcase.com/)
+* [KAIST_lecture_kor](https://www.youtube.com/watch?v=4w1lidx6mV4&list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
+* [Summary_slide_kor](https://www.slideshare.net/SGoodKim/machine-learning-bysogood-80076209)
+* [Awesome Machine Learning Projects_eng](https://ml-showcase.com/)
 
 ### DeepLearning Tutorial
-* [Yongho Ha_slide](https://www.slideshare.net/yongho/ss-79607172)
-* [sjchoi_tutorial](https://github.com/sjchoi86/dl_tutorials_10weeks)
-* [FastCampus_tutorial](https://github.com/nmhkahn/deep_learning_tutorial)
+* [Yongho Ha_slide_kor](https://www.slideshare.net/yongho/ss-79607172)
+* [sjchoi_tutorial_eng](https://github.com/sjchoi86/dl_tutorials_10weeks)
+* [FastCampus_tutorial_kor](https://github.com/nmhkahn/deep_learning_tutorial)
 
 ### Tensorflow Tutorial
-* [TensorFlowKR-2017-talk-bestpractice_slide](https://github.com/wookayin)
-* [Golbin_tutorial](https://github.com/golbin/TensorFlow-Tutorials)
+* [TensorFlowKR-2017-talk-bestpractice_slide_kor](https://github.com/wookayin)
+* [Golbin_tutorial_kor](https://github.com/golbin/TensorFlow-Tutorials)
 
 ### GAN, VAE
-* [Hwalsuk Lee_slide](https://mega.nz/#!tBo3zAKR!yE6tZ0g-GyUyizDf7uglDk2_ahP-zj5trVZSLW3GAjw)
-* [Jaejun Yoo_blog](http://jaejunyoo.blogspot.com/search/label/GAN)
-* [illinois_slide](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)
-* [Delving-deep-into-GANs](https://github.com/GKalliatakis/Delving-deep-into-GANs)
+* [Hwalsuk Lee_slide_eng+kor](https://mega.nz/#!tBo3zAKR!yE6tZ0g-GyUyizDf7uglDk2_ahP-zj5trVZSLW3GAjw)
+* [Jaejun Yoo_blog_kor](http://jaejunyoo.blogspot.com/search/label/GAN)
+* [illinois_slide_eng](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)
+* [Delving-deep-into-GANs_eng](https://github.com/GKalliatakis/Delving-deep-into-GANs)
 
 ### NLP
-* [RNN](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
-* [Word2Vec](http://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/)
-* [Word2Vec_korean](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html)
-* [stanford-NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-* [NaverD2_lecture](https://www.youtube.com/watch?v=r0veZ_WV0sA&list=PLsFtzQAC8dDdIqSY3o5XF_IBIgSLcyzTd)
-* [NLP_DL_Lecture_Note](https://github.com/nyu-dl/NLP_DL_Lecture_Note)
-* [NeuralDialogPaper](https://github.com/snakeztc/NeuralDialogPapers)
+* [RNN_kor](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
+* [Word2Vec_eng](http://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/)
+* [Word2Vec_kor](https://dreamgonfly.github.io/machine/learning,/natural/language/processing/2017/08/16/word2vec_explained.html)
+* [stanford-NLP_eng](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* [NaverD2_lecture_kor](https://www.youtube.com/watch?v=r0veZ_WV0sA&list=PLsFtzQAC8dDdIqSY3o5XF_IBIgSLcyzTd)
+* [NLP_DL_Lecture_Note_eng](https://github.com/nyu-dl/NLP_DL_Lecture_Note)
+* [NeuralDialogPaper_eng](https://github.com/snakeztc/NeuralDialogPapers)
 
 ### etc
-* [Hyun-seok Min_slide](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data?from_m_app=android)
-* [K-MOOC_lecture](http://www.kmooc.kr/)
-* [python_korean](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
-* [visualize_neural_net](https://github.com/Cloud-CV/Fabrik)
+* [Hyun-seok Min_slide_kor](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data?from_m_app=android)
+* [K-MOOC_lecture_kor](http://www.kmooc.kr/)
+* [python_kor](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
+* [visualize_neural_net_eng](https://github.com/Cloud-CV/Fabrik)
 
-### PR12
+### PR12 (korean)
 * [all-KyungmoKweon](https://kkweon.github.io/pr12-web-app-elm/)
 * [1~28](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 * [PR29 : Apprenticeship Learning via Inverse Reinforcement Learning](https://www.youtube.com/watch?v=AXi4s3aFN6M&feature=youtu.be)
