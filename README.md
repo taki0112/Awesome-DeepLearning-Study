@@ -47,6 +47,8 @@
 #### english
 * [illinois_slide](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)
 * [Delving-deep-into-GANs](https://github.com/GKalliatakis/Delving-deep-into-GANs)
+* [tf-gan-comparison](https://github.com/khanrc/tf.gans-comparison)
+* [tf-gan-colletion](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
 #### korean
 * [Hwalsuk Lee_slide](https://mega.nz/#!tBo3zAKR!yE6tZ0g-GyUyizDf7uglDk2_ahP-zj5trVZSLW3GAjw)
 * [Jaejun Yoo_blog](http://jaejunyoo.blogspot.com/search/label/GAN)
