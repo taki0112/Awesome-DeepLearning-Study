@@ -8,6 +8,7 @@
 * [Carpedm20](http://carpedm20.github.io/)
 * [Sung-Kim-Summary](http://pythonkim.tistory.com/notice/25)
 * [조대협_blog](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+* [Chris_blog](https://brunch.co.kr/@chris-song#articles)
 
 ### DeepLearning Lecture
 * [DLSS, RLSS](http://videolectures.net/deeplearning2017_montreal/)
@@ -37,6 +38,7 @@
 * [Hwalsuk Lee_slide](https://mega.nz/#!tBo3zAKR!yE6tZ0g-GyUyizDf7uglDk2_ahP-zj5trVZSLW3GAjw)
 * [Jaejun Yoo_blog](http://jaejunyoo.blogspot.com/search/label/GAN)
 * [illinois_slide](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)
+* [Delving-deep-into-GANs](https://github.com/GKalliatakis/Delving-deep-into-GANs)
 
 ### NLP
 * [RNN](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
@@ -47,13 +49,11 @@
 * [NLP_DL_Lecture_Note](https://github.com/nyu-dl/NLP_DL_Lecture_Note)
 * [NeuralDialogPaper](https://github.com/snakeztc/NeuralDialogPapers)
 
-### Theory
-* [Chris_blog](https://brunch.co.kr/@chris-song#articles)
-
 ### etc
 * [Hyun-seok Min_slide](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data?from_m_app=android)
 * [K-MOOC_lecture](http://www.kmooc.kr/)
 * [python_korean](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
+* [visualize_neural_net](https://github.com/Cloud-CV/Fabrik)
 
 ### PR12
 * [all-KyungmoKweon](https://kkweon.github.io/pr12-web-app-elm/)
