@@ -8,6 +8,7 @@
 #### korean
 * [Carpedm20](http://carpedm20.github.io/)
 * [Lunit](https://blog.lunit.io/)
+* [LAON-PEOPLE](http://blog.naver.com/laonple/220469250655)
 * [Sung-Kim_Summary](http://pythonkim.tistory.com/notice/25)
 * [조대협_blog](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 * [Chris_blog](https://brunch.co.kr/@chris-song#articles)
