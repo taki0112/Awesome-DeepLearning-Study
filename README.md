@@ -6,6 +6,7 @@
 * [GAN-wiseodd](https://wiseodd.github.io/techblog/)
 * [Pattern-Recognition](http://norman3.github.io/prml/)
 #### korean
+* [Dimension-Reduction](https://lookaside.fbsbx.com/file/Dimensionality_Reduction.pdf?token=AWxf9Cz75VpVxq285sXtJIMvDi22-ZCbUqdo4ey_pQsAx9MTS548eUjnjWOuY-tpjDCSznHqHP1s2nuSOTJR7cmJ5Cn8Px1Bk2-5kSLZf_8osDwWYIOC7hh_QEXO9Xdf_nSySMVM-z3GuQGrsLNqWc6LVK0MWYtuRZbQWznNyqCj5imwNItFmlBa2S0GiWwdaX_rNOMEYrbTiAOoXymwOoC9)
 * [Carpedm20](http://carpedm20.github.io/)
 * [Lunit](https://blog.lunit.io/)
 * [LAON-PEOPLE](http://blog.naver.com/laonple/220469250655)
