@@ -4,7 +4,7 @@
 ## TechBlog
 #### english
 * [GAN-wiseodd](https://wiseodd.github.io/techblog/)
-* [Pattern_Recognition](http://norman3.github.io/prml/)
+* [Pattern-Recognition](http://norman3.github.io/prml/)
 #### korean
 * [Carpedm20](http://carpedm20.github.io/)
 * [Lunit](https://blog.lunit.io/)
