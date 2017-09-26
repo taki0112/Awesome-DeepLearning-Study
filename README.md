@@ -5,6 +5,8 @@
 #### Korean
 * [Dimension-Reduction](https://lookaside.fbsbx.com/file/Dimensionality_Reduction.pdf?token=AWxf9Cz75VpVxq285sXtJIMvDi22-ZCbUqdo4ey_pQsAx9MTS548eUjnjWOuY-tpjDCSznHqHP1s2nuSOTJR7cmJ5Cn8Px1Bk2-5kSLZf_8osDwWYIOC7hh_QEXO9Xdf_nSySMVM-z3GuQGrsLNqWc6LVK0MWYtuRZbQWznNyqCj5imwNItFmlBa2S0GiWwdaX_rNOMEYrbTiAOoXymwOoC9)
 * [Pattern-Recognition](http://norman3.github.io/prml/)
+* [K-MOOC_lecture](http://www.kmooc.kr/)
+* [python-lecture](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
 
 ## TechBlog
 #### English
@@ -75,8 +77,6 @@
 * [visualize-neural-net](https://github.com/Cloud-CV/Fabrik)
 #### Korean
 * [Hyun-seok Min_slide](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data?from_m_app=android)
-* [K-MOOC_lecture](http://www.kmooc.kr/)
-* [python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
 
 ## PR12 (Korean)
 * [all-KyungmoKweon](https://kkweon.github.io/pr12-web-app-elm/)
