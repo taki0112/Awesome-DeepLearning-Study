@@ -6,7 +6,7 @@
 * [Dimension-Reduction](https://lookaside.fbsbx.com/file/Dimensionality_Reduction.pdf?token=AWxf9Cz75VpVxq285sXtJIMvDi22-ZCbUqdo4ey_pQsAx9MTS548eUjnjWOuY-tpjDCSznHqHP1s2nuSOTJR7cmJ5Cn8Px1Bk2-5kSLZf_8osDwWYIOC7hh_QEXO9Xdf_nSySMVM-z3GuQGrsLNqWc6LVK0MWYtuRZbQWznNyqCj5imwNItFmlBa2S0GiWwdaX_rNOMEYrbTiAOoXymwOoC9)
 * [Pattern-Recognition](http://norman3.github.io/prml/)
 * [K-MOOC_lecture](http://www.kmooc.kr/)
-* [python-lecture](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
+* [python_lecture](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
 
 ## TechBlog
 #### English
@@ -16,8 +16,8 @@
 * [Lunit](https://blog.lunit.io/)
 * [LAON-PEOPLE](http://blog.naver.com/laonple/220469250655)
 * [Sung-Kim_Summary](http://pythonkim.tistory.com/notice/25)
-* [조대협_blog](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
-* [Chris_blog](https://brunch.co.kr/@chris-song#articles)
+* [조대협](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+* [Chris-](https://brunch.co.kr/@chris-song#articles)
 
 ## DeepLearning Lecture
 #### English
