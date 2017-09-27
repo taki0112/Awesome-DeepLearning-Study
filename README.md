@@ -1,6 +1,8 @@
 # DeepLearning-Summary
 *Continually updating...*
 
+* [python-library](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+
 ## Theory
 #### Korean
 * [Dimension-Reduction](https://lookaside.fbsbx.com/file/Dimensionality_Reduction.pdf?token=AWxf9Cz75VpVxq285sXtJIMvDi22-ZCbUqdo4ey_pQsAx9MTS548eUjnjWOuY-tpjDCSznHqHP1s2nuSOTJR7cmJ5Cn8Px1Bk2-5kSLZf_8osDwWYIOC7hh_QEXO9Xdf_nSySMVM-z3GuQGrsLNqWc6LVK0MWYtuRZbQWznNyqCj5imwNItFmlBa2S0GiWwdaX_rNOMEYrbTiAOoXymwOoC9)
