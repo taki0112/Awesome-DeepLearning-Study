@@ -17,6 +17,7 @@
 ## TechBlog
 #### English
 * [GAN-wiseodd](https://wiseodd.github.io/techblog/)
+* [Peter's notes](http://peterroelants.github.io/)
 #### Korean
 * [Carpedm20](http://carpedm20.github.io/)
 * [Lunit](https://blog.lunit.io/)
