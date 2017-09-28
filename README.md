@@ -2,6 +2,7 @@
 *Continually updating...*
 
 * [python-library](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+* [Image-augmentation](https://github.com/aleju/imgaug)
 
 ## Theory
 #### English
