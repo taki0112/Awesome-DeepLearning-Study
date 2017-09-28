@@ -9,7 +9,7 @@
 #### English
 * [Machine-Learning-glossary](https://developers.google.com/machine-learning/glossary/)
 #### Korean
-* [Dimension-Reduction]https://lookaside.fbsbx.com/file/Dimensionality_Reduction.pdf?token=AWyL-R9MARwNbkc-aw4jlhrrueYdt74sUsRqzr7fxrI2wRHqZKQZrjPnk0odQcrUFSjTogfsC0_ZwBFS4ywdWuwHNXb_HAKxUPZGmTcYY821nGxqcaOoBoT2aZEDSIgZz4pasNBWbVOzx9xQJC__vObu0GZwVTsy1ptfHqm6DtHtQg)
+* [Dimension-Reduction](https://lookaside.fbsbx.com/file/Dimensionality_Reduction.pdf?token=AWyL-R9MARwNbkc-aw4jlhrrueYdt74sUsRqzr7fxrI2wRHqZKQZrjPnk0odQcrUFSjTogfsC0_ZwBFS4ywdWuwHNXb_HAKxUPZGmTcYY821nGxqcaOoBoT2aZEDSIgZz4pasNBWbVOzx9xQJC__vObu0GZwVTsy1ptfHqm6DtHtQg)
 * [Pattern-Recognition](http://norman3.github.io/prml/)
 * [K-MOOC_lecture](http://www.kmooc.kr/)
 * [python_lecture](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
