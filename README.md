@@ -7,10 +7,10 @@
 
 ## Theory
 #### English
-* [Probability and Statistics](http://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
+* [Probability-and-Statistics-Formula](http://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
 * [Machine-Learning-glossary](https://developers.google.com/machine-learning/glossary/)
 #### Korean
-* [Mathematics](http://blogattach.naver.net/65f079c9d981815d7297f1c7f21d6318bfe515f7ca/20170725_30_blogfile/nv_science_1500963171155_3Fr6o2_pdf/%B3%D7%C0%CC%B9%F6%B0%FA%C7%D0_%BC%F6%C7%D0%C6%F7%BD%BA%C5%CD_A4_9%BA%D0%C7%D2_20170713.pdf)
+* [Mathematics-Formula](http://blogattach.naver.net/65f079c9d981815d7297f1c7f21d6318bfe515f7ca/20170725_30_blogfile/nv_science_1500963171155_3Fr6o2_pdf/%B3%D7%C0%CC%B9%F6%B0%FA%C7%D0_%BC%F6%C7%D0%C6%F7%BD%BA%C5%CD_A4_9%BA%D0%C7%D2_20170713.pdf)
 * [Dimension-Reduction](https://lookaside.fbsbx.com/file/Dimensionality_Reduction.pdf?token=AWyL-R9MARwNbkc-aw4jlhrrueYdt74sUsRqzr7fxrI2wRHqZKQZrjPnk0odQcrUFSjTogfsC0_ZwBFS4ywdWuwHNXb_HAKxUPZGmTcYY821nGxqcaOoBoT2aZEDSIgZz4pasNBWbVOzx9xQJC__vObu0GZwVTsy1ptfHqm6DtHtQg)
 * [Pattern-Recognition](http://norman3.github.io/prml/)
 * [K-MOOC_lecture](http://www.kmooc.kr/)
