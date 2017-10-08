@@ -36,6 +36,7 @@
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 * [cs231n](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 #### Korean
+* [Sung-Kim](https://www.youtube.com/channel/UCML9R2ol-l0Ab9OXoNnr7Lw)
 * [cs231n](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
 * [Terry-deeplearning-talk](https://www.youtube.com/watch?v=D4zqigCb8co&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
 * [Reienforcement-slide](https://www.slideshare.net/WoongwonLee/ss-78783597?from_m_app=android)
