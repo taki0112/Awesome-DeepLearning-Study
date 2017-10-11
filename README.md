@@ -11,7 +11,7 @@
 * [Machine-Learning-glossary](https://developers.google.com/machine-learning/glossary/)
 #### Korean
 * [Mathematics-Cookbook](http://blogattach.naver.net/65f079c9d981815d7297f1c7f21d6318bfe515f7ca/20170725_30_blogfile/nv_science_1500963171155_3Fr6o2_pdf/%B3%D7%C0%CC%B9%F6%B0%FA%C7%D0_%BC%F6%C7%D0%C6%F7%BD%BA%C5%CD_A4_9%BA%D0%C7%D2_20170713.pdf)
-* [Dimension-Reduction](https://lookaside.fbsbx.com/file/Dimensionality_Reduction.pdf?token=AWyL-R9MARwNbkc-aw4jlhrrueYdt74sUsRqzr7fxrI2wRHqZKQZrjPnk0odQcrUFSjTogfsC0_ZwBFS4ywdWuwHNXb_HAKxUPZGmTcYY821nGxqcaOoBoT2aZEDSIgZz4pasNBWbVOzx9xQJC__vObu0GZwVTsy1ptfHqm6DtHtQg)
+* [Dimension-Reduction](https://github.com/taki0112/DeepLearning-Summary/raw/master/file/Dimensionality_Reduction.pdf)
 * [Pattern-Recognition](http://norman3.github.io/prml/)
 * [K-MOOC_lecture](http://www.kmooc.kr/)
 * [python_lecture](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
@@ -31,6 +31,7 @@
 
 ## DeepLearning Lecture
 #### English
+* [Coursera](https://www.coursera.org/)
 * [DLSS, RLSS](http://videolectures.net/deeplearning2017_montreal/)
 * [fast.ai](http://course.fast.ai/?utm_campaign=Revue+newsletter&utm_medium=Newsletter&utm_source=revue)
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
@@ -73,7 +74,7 @@
 #### Korean
 * [Hwalsuk Lee_slide](https://mega.nz/#!tBo3zAKR!yE6tZ0g-GyUyizDf7uglDk2_ahP-zj5trVZSLW3GAjw)
 * [Jaejun Yoo_blog](http://jaejunyoo.blogspot.com/search/label/GAN)
-* [Style-Transfer](https://lookaside.fbsbx.com/file/Style%20Transfer.pdf?token=AWx7kwpqftJUWct8M6HBURmJBJB9PCDgsHUnZb0qE0fRIEvNPHFEHS6ruC-jyCK_GKbpggLygMyb1qjZllNz4jkU9b_XVsBbUib4ZimDG-zDXSEC-I1wQ9StkJO-KFIpapxnUeN8jxo9p5zd0N2J28MerfMujvCLNXyhuyVZBgpL4Shf2gDB-LGRPuQdLQmeudQ)
+* [Style-Transfer](https://github.com/taki0112/DeepLearning-Summary/raw/master/file/Style%20Transfer.pdf)
 
 ## NLP
 #### English
