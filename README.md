@@ -9,6 +9,7 @@
 #### English
 * [Probability-and-Statistics-Cookbook](http://statistics.zone/)
 * [Machine-Learning-glossary](https://developers.google.com/machine-learning/glossary/)
+* [Backpropagation-In-Convolutional-Neural-Networks](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
 #### Korean
 * [Mathematics-Cookbook](http://blogattach.naver.net/65f079c9d981815d7297f1c7f21d6318bfe515f7ca/20170725_30_blogfile/nv_science_1500963171155_3Fr6o2_pdf/%B3%D7%C0%CC%B9%F6%B0%FA%C7%D0_%BC%F6%C7%D0%C6%F7%BD%BA%C5%CD_A4_9%BA%D0%C7%D2_20170713.pdf)
 * [Dimension-Reduction](https://github.com/taki0112/DeepLearning-Summary/raw/master/file/Dimensionality_Reduction.pdf)
