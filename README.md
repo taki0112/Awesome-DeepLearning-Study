@@ -12,7 +12,7 @@
 * [Backpropagation-In-Convolutional-Neural-Networks](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
 * [1x1-Convolution](http://iamaaditya.github.io/2016/03/one-by-one-convolution/)
 #### Korean
-* [Mathematics-Cookbook](http://blogattach.naver.net/65f079c9d981815d7297f1c7f21d6318bfe515f7ca/20170725_30_blogfile/nv_science_1500963171155_3Fr6o2_pdf/%B3%D7%C0%CC%B9%F6%B0%FA%C7%D0_%BC%F6%C7%D0%C6%F7%BD%BA%C5%CD_A4_9%BA%D0%C7%D2_20170713.pdf)
+* [Mathematics-Cookbook](https://github.com/taki0112/Awesome-DeepLearning-Study/blob/master/file/Mathematics-Cookbook.pdf)
 * [Dimension-Reduction](https://github.com/taki0112/DeepLearning-Summary/raw/master/file/Dimensionality_Reduction.pdf)
 * [Pattern-Recognition](http://norman3.github.io/prml/)
 * [K-MOOC_lecture](http://www.kmooc.kr/)
