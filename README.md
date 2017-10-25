@@ -61,7 +61,6 @@
 * [DeepLearningZeroToAll](https://github.com/hunkim/DeepLearningZeroToAll)
 #### Korean
 * [Yongho Ha_slide](https://www.slideshare.net/yongho/ss-79607172)
-* [FastCampus_tutorial](https://github.com/nmhkahn/deep_learning_tutorial)
 
 ## Tensorflow Tutorial
 #### Korean
@@ -72,6 +71,8 @@
 ### English
 * [yunjey](https://github.com/yunjey/pytorch-tutorial)
 * [PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)
+### Korean
+* [FastCampus_tutorial](https://github.com/nmhkahn/deep_learning_tutorial)
 
 ## GAN, VAE
 #### English
