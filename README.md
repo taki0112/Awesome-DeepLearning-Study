@@ -67,6 +67,10 @@
 * [TensorFlowKR-2017-talk-bestpractice_slide](https://github.com/wookayin)
 * [Golbin_tutorial](https://github.com/golbin/TensorFlow-Tutorials)
 
+## Pytorch Tutorial
+### English
+* [yunjey](https://github.com/yunjey/pytorch-tutorial)
+
 ## GAN, VAE
 #### English
 * [illinois_slide](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)
