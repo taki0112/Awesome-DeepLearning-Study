@@ -91,7 +91,7 @@
 ## NLP
 #### English
 * [stanford-NLP](https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-* [oxford-NLP](https://github.com/oxford-cs-deepnlp-2017/lectures), [video]https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
+* [oxford-NLP](https://github.com/oxford-cs-deepnlp-2017/lectures), [video](https://www.youtube.com/watch?v=RP3tZFcC2e8&list=PL613dYIGMXoZBtZhbyiBqb0QtgK6oJbpm)
 * [NLP-DL-Lecture-Note](https://github.com/nyu-dl/NLP_DL_Lecture_Note)
 * [NeuralDialogPaper](https://github.com/snakeztc/NeuralDialogPapers)
 * [Word2Vec](http://adventuresinmachinelearning.com/word2vec-tutorial-tensorflow/)
