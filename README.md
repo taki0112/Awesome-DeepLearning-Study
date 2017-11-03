@@ -106,6 +106,7 @@
 #### English
 * [visualize-neural-net](https://github.com/Cloud-CV/Fabrik)
 * [visualize-convoulution](https://github.com/vdumoulin/conv_arithmetic)
+* [visualize-GAN](https://reiinakano.github.io/gan-playground/)
 #### Korean
 * [Medical-AI_slide](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data?from_m_app=android)
 
