@@ -63,6 +63,7 @@
 #### Korean
 * [Yongho Ha_slide](https://www.slideshare.net/yongho/ss-79607172)
 * [Namhyuk-Ahn](https://github.com/nmhkahn/deep_learning_tutorial)
+* [Chanwoo-Lee](http://nbviewer.jupyter.org/format/slides/gist/leechanwoo/)
 
 ## Tensorflow Tutorial
 #### Korean
