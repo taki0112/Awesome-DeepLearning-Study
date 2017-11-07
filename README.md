@@ -19,6 +19,7 @@
 * [Pattern-Recognition](http://norman3.github.io/prml/)
 * [K-MOOC_lecture](http://www.kmooc.kr/)
 * [python_lecture](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
+* [딥러닝 이론에서 실습까지](https://drive.google.com/file/d/0B-qyuGELhRZ6dGhFeUNVaFNPbms/view)
 
 ## TechBlog
 #### English
