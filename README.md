@@ -20,6 +20,7 @@
 * [K-MOOC_lecture](http://www.kmooc.kr/)
 * [python_lecture](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
 * [딥러닝 이론에서 실습까지](https://drive.google.com/file/d/0B-qyuGELhRZ6dGhFeUNVaFNPbms/view)
+* [공돌이의 수학정리 노트](https://wikidocs.net/book/563)
 
 ## TechBlog
 #### English
@@ -115,4 +116,5 @@
 ## PR12 (Korean)
 * [all-KyungmoKweon](https://kkweon.github.io/pr12-web-app-elm/)
 * [Sung-Kim](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
+* [PR12-archive](https://jamiekang.github.io/archives/)
 
