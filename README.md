@@ -86,7 +86,7 @@
 * [Wasserstein GAN in Keras](https://myurasov.github.io/2017/09/24/wasserstein-gan-keras.html?r)
 * [tf-gan-comparison](https://github.com/khanrc/tf.gans-comparison)
 * [tf-gan-colletion](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
-
+* [how-to-train-gan](https://github.com/taki0112/Awesome-DeepLearning-Study/raw/master/file/How_To_Train_a_GAN.pdf)
 #### Korean
 * [Hwalsuk Lee_slide](https://mega.nz/#!tBo3zAKR!yE6tZ0g-GyUyizDf7uglDk2_ahP-zj5trVZSLW3GAjw)
 * [Jaejun Yoo_blog](http://jaejunyoo.blogspot.com/search/label/GAN)
