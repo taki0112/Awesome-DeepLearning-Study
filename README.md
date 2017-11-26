@@ -34,6 +34,7 @@
 * [Sung-Kim_Summary](http://pythonkim.tistory.com/notice/25)
 * [조대협](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 * [Chris-송호연](https://brunch.co.kr/@chris-song#articles)
+* [ratsgo-blog](https://ratsgo.github.io/blog/categories/)
 
 ## DeepLearning Lecture
 #### English
