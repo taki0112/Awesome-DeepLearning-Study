@@ -22,6 +22,7 @@
 * [python_lecture](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
 * [딥러닝 이론에서 실습까지](https://drive.google.com/file/d/0B-qyuGELhRZ6dGhFeUNVaFNPbms/view)
 * [공돌이의 수학정리 노트](https://wikidocs.net/book/563)
+* [Machine-Learning](http://sanghyukchun.github.io/)
 
 ## TechBlog
 #### English
