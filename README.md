@@ -75,6 +75,9 @@
 * [TensorFlowKR-2017-talk-bestpractice_slide](https://github.com/wookayin)
 * [Golbin_tutorial](https://github.com/golbin/TensorFlow-Tutorials)
 
+### English
+* [Keras + Tensorflow for image](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+
 ## Pytorch Tutorial
 ### English
 * [yunjey](https://github.com/yunjey/pytorch-tutorial)
