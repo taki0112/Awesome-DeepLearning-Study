@@ -77,6 +77,7 @@
 
 ### English
 * [Keras + Tensorflow for image](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
+* [Stanford_Tensorflow_tutorial](http://web.stanford.edu/class/cs20si/)
 
 ## Pytorch Tutorial
 ### English
