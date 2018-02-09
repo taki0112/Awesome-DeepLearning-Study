@@ -13,6 +13,7 @@
 * [1x1-Convolution](http://iamaaditya.github.io/2016/03/one-by-one-convolution/)
 * [SNU-TF](https://drive.google.com/drive/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8)
 * [Statistical Computing for Scientists and Engineers](https://www.zabaras.com/statisticalcomputing)
+* [bayes-nn](https://github.com/sjchoi86/bayes-nn)
 #### Korean
 * [수포자를 위한 머신러닝](https://github.com/taki0112/Awesome-DeepLearning-Study/blob/master/file/%EC%88%98%ED%8F%AC%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.pdf)
 * [Mathematics-Cookbook](https://github.com/taki0112/Awesome-DeepLearning-Study/blob/master/file/Mathematics-Cookbook.pdf)
