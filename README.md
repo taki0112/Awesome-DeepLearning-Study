@@ -24,6 +24,7 @@
 * [딥러닝 이론에서 실습까지](https://drive.google.com/file/d/0B-qyuGELhRZ6dGhFeUNVaFNPbms/view)
 * [공돌이의 수학정리 노트](https://wikidocs.net/book/563)
 * [Machine-Learning](http://sanghyukchun.github.io/)
+* [Korea-Univ-Jaegul-Choo](https://www.youtube.com/channel/UCsEQc1-iFbu_yHvMd1vqwFQ/playlists)
 
 ## TechBlog
 #### English
