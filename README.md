@@ -5,6 +5,9 @@
 * [python-library](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 * [Image-augmentation](https://github.com/aleju/imgaug)
 
+## CheatSheet
+* [CS 229](https://stanford.edu/~shervine/teaching/cs-229.html)
+
 ## Theory
 #### English
 * [Probability-and-Statistics-Cookbook](http://statistics.zone/)
