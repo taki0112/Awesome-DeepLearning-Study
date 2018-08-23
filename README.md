@@ -131,7 +131,6 @@
 * [Medical-AI_slide](https://www.slideshare.net/hyunseokmin/applying-deep-learning-to-medical-data?from_m_app=android)
 
 ## PR12 (Korean)
-* [all-KyungmoKweon](https://kkweon.github.io/pr12-web-app-elm/)
 * [Sung-Kim](https://www.youtube.com/watch?v=auKdde7Anr8&list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 * [PR12-archive](https://jamiekang.github.io/archives/)
 
