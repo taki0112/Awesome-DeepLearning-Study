@@ -14,27 +14,33 @@
 ## CheatSheet
 * [CS 229](https://stanford.edu/~shervine/teaching/cs-229.html)
 
-## Theory
-#### English
+## Mathematics
+### English
 * [Probability-and-Statistics-Cookbook](http://statistics.zone/)
-* [Machine-Learning-glossary](https://developers.google.com/machine-learning/glossary/)
-* [Backpropagation-In-Convolutional-Neural-Networks](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
-* [1x1-Convolution](http://iamaaditya.github.io/2016/03/one-by-one-convolution/)
-* [SNU-TF](https://drive.google.com/drive/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8)
-* [Statistical Computing for Scientists and Engineers](https://www.zabaras.com/statisticalcomputing)
 * [bayes-nn](https://github.com/sjchoi86/bayes-nn)
-#### Korean
+* [Mathematics-for-Machine-Learning](https://mml-book.github.io/)
+
+### Korean
 * [수포자를 위한 머신러닝](https://github.com/taki0112/Awesome-DeepLearning-Study/blob/master/file/%EC%88%98%ED%8F%AC%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.pdf)
 * [Mathematics-Cookbook](https://github.com/taki0112/Awesome-DeepLearning-Study/blob/master/file/Mathematics-Cookbook.pdf)
 * [Dimension-Reduction](https://github.com/taki0112/DeepLearning-Summary/raw/master/file/Dimensionality_Reduction.pdf)
 * [Pattern-Recognition](http://norman3.github.io/prml/)
+* [공돌이의 수학정리 노트](https://wikidocs.net/book/563)
+* [Convex-Optimization](https://wikidocs.net/18720)
+
+## Theory
+#### English
+* [Machine-Learning-glossary](https://developers.google.com/machine-learning/glossary/)
+* [Backpropagation-In-Convolutional-Neural-Networks](http://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/)
+* [1x1-Convolution](http://iamaaditya.github.io/2016/03/one-by-one-convolution/)
+* [SNU-TF](https://drive.google.com/drive/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8)
+
+#### Korean
 * [K-MOOC_lecture](http://www.kmooc.kr/)
 * [python_lecture](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz&disable_polymer=true)
 * [딥러닝 이론에서 실습까지](https://drive.google.com/file/d/0B-qyuGELhRZ6dGhFeUNVaFNPbms/view)
-* [공돌이의 수학정리 노트](https://wikidocs.net/book/563)
 * [Machine-Learning](http://sanghyukchun.github.io/)
 * [Korea-Univ-Jaegul-Choo](https://www.youtube.com/channel/UCsEQc1-iFbu_yHvMd1vqwFQ/playlists)
-* [Convex-Optimization](https://wikidocs.net/18720)
 
 ## TechBlog
 #### English
