@@ -15,12 +15,12 @@
 * [CS 229](https://stanford.edu/~shervine/teaching/cs-229.html)
 
 ## Mathematics
-### English
+#### English
 * [Probability-and-Statistics-Cookbook](http://statistics.zone/)
 * [bayes-nn](https://github.com/sjchoi86/bayes-nn)
 * [Mathematics-for-Machine-Learning](https://mml-book.github.io/)
 
-### Korean
+#### Korean
 * [수포자를 위한 머신러닝](https://github.com/taki0112/Awesome-DeepLearning-Study/blob/master/file/%EC%88%98%ED%8F%AC%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D.pdf)
 * [Mathematics-Cookbook](https://github.com/taki0112/Awesome-DeepLearning-Study/blob/master/file/Mathematics-Cookbook.pdf)
 * [Dimension-Reduction](https://github.com/taki0112/DeepLearning-Summary/raw/master/file/Dimensionality_Reduction.pdf)
