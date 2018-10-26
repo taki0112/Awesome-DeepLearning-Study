@@ -35,6 +35,7 @@
 * [1x1-Convolution](http://iamaaditya.github.io/2016/03/one-by-one-convolution/)
 * [SNU-TF](https://drive.google.com/drive/folders/0B8z5oUpB2DysbFNEOWxfVDh5VW8)
 * [Object-Detection](http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/)
+* [Coursera](https://www.coursera.org/) Machine Learning - Andrew Ng
 
 #### Korean
 * [K-MOOC_lecture](http://www.kmooc.kr/)
