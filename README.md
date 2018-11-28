@@ -12,7 +12,7 @@
 * [Image-augmentation](https://github.com/aleju/imgaug)
 
 ## CheatSheet
-* [CS 229](https://stanford.edu/~shervine/teaching/cs-229.html)
+* [shervine](https://stanford.edu/~shervine/) **(recommend)**
 
 ## Mathematics
 #### English
