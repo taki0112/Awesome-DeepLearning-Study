@@ -51,6 +51,7 @@
 * [Colah](http://colah.github.io/)
 * [Distill](https://distill.pub/)
 * [pyimagesearch](https://www.pyimagesearch.com/author/adrian/) **(recommend)**
+* [Neurohive](https://neurohive.io/en/#pll_switcher) **(recommend)**
 
 #### Korean
 * [Carpedm20](http://carpedm20.github.io/)
